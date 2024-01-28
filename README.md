@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=flat" alt="perera2k4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perera2k4" alt="perera2k4" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/perera2k4" target="blank"><img src="https://img.shields.io/twitter/follow/perera2k4?logo=twitter&style=for-the-badge" alt="perera2k4" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perera2k4&show_icons=true&locale=en&layout=compact" alt="perera2k4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perera2k4&show_icons=true&locale=en" alt="perera2k4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perera2k4&" alt="perera2k4" /></p>
