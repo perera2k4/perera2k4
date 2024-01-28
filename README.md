@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, meu nome é Bruno Pereira</h1>
-<h3 align="center">Eu sou um programador back-end e as vezes me arrisco no front-end</h3>
+<h3 align="center">Eu sou um programador back-end e as vezes me arrisco no front-end :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=flat" alt="perera2k4" /> </p>
 
