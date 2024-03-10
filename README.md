@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, meu nome é Bruno Pereira</h1>
-<h3 align="center">Provavelmente programando back-end e as vezes me arriscando no front-end</h3>
+<h3 align="center">Estudante, ensino médio integrado concluído em Informática no Instituto Federal de Educação Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba (2019 - 2021), graduação em andamento no curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba (2024 - XXX) atuante na área de tecnologia da informação e desenvolvimento de softwares.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=flat" alt="perera2k4" /> </p>
 
