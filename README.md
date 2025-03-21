@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, meu nome é Bruno Pereira/h1>
+<h1>👋 &nbsp;Olá, meu nome é Bruno Pereira</h1>
 <p align="center">
 <a href="https://instagram.com/perera2k4"><img src="https://img.shields.io/badge/-@perera2k4_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/bruno-pereira-carvalho/"><img src="https://img.shields.io/badge/-Bruno%20Pereira%20Carvalho-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
