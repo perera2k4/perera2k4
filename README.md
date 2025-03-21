@@ -23,5 +23,5 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <h2>🚀 &nbsp;Minha atividade Git/Github:</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=flat" alt="perera2k4" /> </p>
-![Bruno Pereira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perera2k4&show_icons=true&theme=dracula)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=flat" alt="perera2k4"> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=perera2k4&show_icons=true&theme=dracula" alt="perera2k4" /></p>
