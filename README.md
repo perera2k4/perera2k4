@@ -11,13 +11,6 @@
   </a>
 </p>
 
-## 🚀 Sobre mim
-
-- 🎓 **Formação**: Ensino Médio Integrado em Informática (IFTM - 2019-2021)
-- 📚 **Cursando**: Análise e Desenvolvimento de Sistemas (IFTM - 2024-2027)
-- 💻 **Foco**: Desenvolvimento Full Stack e Tecnologias Web
-- 🌱 **Aprendendo**: Novas tecnologias e frameworks modernos
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
