@@ -16,13 +16,13 @@
 
 <div align="center">
   
-| Frontend & Mobile                                                                                                              |     |     |     | Backend & Languages                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------ | --- | --- | --- | ------------------------------------------------------------------------------------------------------------- |
-| [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,dart&perline=7)](https://skillicons.dev) |     |     |     | [![Backend Skills](https://skillicons.dev/icons?i=java,kotlin,c,py,nodejs&perline=5)](https://skillicons.dev) |
+| Frontend & Mobile | Backend & Languages                                              |
+| ----------------- | ---------------------------------------------------------------- |
+| [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,dart&perline=7)](https://skillicons.dev)       | [![Backend Skills](https://skillicons.dev/icons?i=java,kotlin,c,py,nodejs&perline=5)](https://skillicons.dev) |
 
-| Databases                                                                                                            |     |     |     | Tools & IDEs                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&perline=4)](https://skillicons.dev) |     |     |     | [![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,arduino&perline=6)](https://skillicons.dev) |
+| Databases                                                                                                            | Tools & IDEs                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&perline=4)](https://skillicons.dev) | [![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,arduino&perline=6)](https://skillicons.dev) |
 
 </div>
 
