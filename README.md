@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" alt="LinkedIn" />
   </a>
   
-  </p>
+  </p> 
 
   <img src="https://komarev.com/ghpvc/?username=perera2k4&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   
