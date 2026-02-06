@@ -15,5 +15,5 @@
   
   ---
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=perera2k4&layout=donut-vertical&hide_border=true&title_color=58A6FF&text_color=AAAAAA&bg_color=0d1117&langs_count=15&cache_seconds=14400" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=perera2k4&layout=donut-vertical&hide_border=true&title_color=58A6FF&text_color=AAAAAA&bg_color=0d1117&langs_count=15&cache_seconds=14400" alt="Top Languages" />
 </div>
